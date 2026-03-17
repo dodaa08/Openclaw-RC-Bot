@@ -1,0 +1,16 @@
+{
+    "id": "f893be30-9d10-4dbd-b410-744a46ff8fce",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "kartik",
+        "homepage": ".",
+        "support": "."
+    },
+    "name": "OCbot",
+    "nameSlug": "ocbot",
+    "classFile": "OCbotApp.ts",
+    "description": "Talk to openclaw",
+    "implements": []
+}
